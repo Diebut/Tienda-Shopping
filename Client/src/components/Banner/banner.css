@@ -1,0 +1,13 @@
+body {
+    background-image: url('../../assets/img/decorative-black-friday-concept.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: -1; 
+}
+.product-container {
+    position: relative;
+    z-index: 1;
+}
+
