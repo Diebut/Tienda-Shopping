@@ -1,12 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 # Tienda Shopping
 
 Tienda Shopping es una aplicación web de e-commerce que permite a los usuarios explorar productos, agregarlos a su carrito de compras y realizar órdenes de compra. Además, cuenta con un sistema de autenticación para diferenciar entre usuarios comunes y administradores.
@@ -40,3 +31,12 @@ Tienda Shopping es una aplicación web de e-commerce que permite a los usuarios 
 - **Enlace del video**: https://drive.google.com/file/d/1Dn7AAVuc5JhQwbbAoKXPtjQTuRIuhXbJ/view?usp=drive_link
 
 <div style="display: flex; gap: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="50" height="50"/> </div>
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
