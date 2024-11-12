@@ -28,6 +28,6 @@ Tienda Shopping es una aplicación web de e-commerce que permite a los usuarios 
 
 1. VIDEO:
 
-- **Enlace del video**: https://drive.google.com/file/d/1Dn7AAVuc5JhQwbbAoKXPtjQTuRIuhXbJ/view?usp=drive_link
+- **Enlace del video**: https://drive.google.com/file/d/1PD6c0EWikXCEhEXu52PE9EeafBXbdQwn/view?usp=drive_link
 
 <div style="display: flex; gap: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="50" height="50"/> </div>
